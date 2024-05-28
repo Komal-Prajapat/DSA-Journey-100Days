@@ -13,10 +13,10 @@ class Palindrom {
 
         if (flag == 1) {
 
-            System.out.println("Not!");
+            System.out.println("**** Aray is not palindromic ****");
 
         } else {
-            System.out.println("Palindomic ary");
+            System.out.println("****Palindomic ary***");
 
         }
     }
