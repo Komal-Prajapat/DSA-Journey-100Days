@@ -8,6 +8,10 @@ public class MissingNumberInArray {
             sum += ary[i];
         }
         int missing_number = sum_natural_num - sum;
-        System.out.println(missing_number);
+        System.out.println("Missing element in an array is " + missing_number);
     }
 }
+
+
+//time complexity O(n)
+//Space complexity O(1)
